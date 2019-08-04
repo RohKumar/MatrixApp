@@ -1,0 +1,17 @@
+E:\Project\Matrix\MatrixApp\MatrixCore\bin\Debug\netstandard2.0\MatrixCore.deps.json
+E:\Project\Matrix\MatrixApp\MatrixCore\bin\Debug\netstandard2.0\MatrixCore.dll
+E:\Project\Matrix\MatrixApp\MatrixCore\bin\Debug\netstandard2.0\MatrixCore.pdb
+E:\Project\Matrix\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.csproj.CoreCompileInputs.cache
+E:\Project\Matrix\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.AssemblyInfoInputs.cache
+E:\Project\Matrix\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.AssemblyInfo.cs
+E:\Project\Matrix\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.dll
+E:\Project\Matrix\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.pdb
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\bin\Debug\netstandard2.0\MatrixCore.deps.json
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\bin\Debug\netstandard2.0\MatrixCore.dll
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\bin\Debug\netstandard2.0\MatrixCore.pdb
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.csprojAssemblyReference.cache
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.csproj.CoreCompileInputs.cache
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.AssemblyInfoInputs.cache
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.AssemblyInfo.cs
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.dll
+E:\Project\Matrix\MatrixAppClient\MatrixApp\MatrixCore\obj\Debug\netstandard2.0\MatrixCore.pdb
